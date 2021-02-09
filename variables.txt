@@ -1,0 +1,14 @@
+food = "taco salad"
+is_delicious = true
+
+food = "currywurst"
+num2 = 54
+num7 = 7
+quotient = num7 / num2
+
+songs = ["Take Me Away", "Stormy Monday", "Spoonful"]
+
+remove_first_song = songs.delete_at(0)
+
+string_length = food.size
+
